@@ -60,8 +60,8 @@ This project explores logistic regression from scratch using NumPy and compares 
 - `regularization_experiments.ipynb`: Regularization experiments with L1, L2, and coefficient shrinkage  
 - `visuals/`: Saved plots (sigmoid curve, decision boundaries, shrinkage plots)
 
-## 🧠 Reflection
-Building the model manually helped me understand how gradient descent works and how predictions are formed. Sklearn is faster and optimized, but coding it myself made me think like an engineer, not just a tool user. Regularization taught me how to control model complexity and improve generalization — a key skill for building reliable AI systems.
+## Reflection
+Building the model manually helped me understand how gradient descent works and how predictions are formed. Sklearn is faster and optimized, but coding it myself made me think like an engineer, not just a tool user. Regularization taught me how to control model complexity and improve generalization a key skill for building reliable AI systems.
 
 ## Dataset
 Simple binary classification using student exam scores and study hours. Target variable: whether the student passed (1) or not (0).
